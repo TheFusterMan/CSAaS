@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f97da7e0007a5242",
+        "id": "757f20b8b92d8144",
         "type": "tabs",
         "children": [
           {
-            "id": "db23e7a17495e443",
+            "id": "146838289fcb2771",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,24 +183,30 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "db23e7a17495e443",
+  "active": "146838289fcb2771",
   "lastOpenFiles": [
+    "Deploying a centralized log collection system in a Windows domain (WEF)/report.md",
+    "Containerizing a Web Application with Docker/report.md",
     "Configuring and securing an Nginx web server on Linux/report.md",
     "Active Directory Vulnerability Analysis and Exploitation/report.md",
+    "img/Pasted.md",
+    "Deploying a centralized log collection system in a Windows domain (WEF)/img/Pasted image 20251113004640.png",
+    "img/Ps 2.md",
+    "img/Ps 1.md",
+    "img/Ps.md",
+    "img",
+    "README.md",
+    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113014152.png",
+    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113014147.png",
+    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113014143.png",
+    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113014137.png",
+    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113014128.png",
     "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015139.png",
     "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015329.png",
     "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015323.png",
     "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015317.png",
-    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015311.png",
-    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015304.png",
-    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015257.png",
-    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015248.png",
-    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015239.png",
-    "Active Directory Vulnerability Analysis and Exploitation/img/Pasted image 20251113015232.png",
     "Active Directory Vulnerability Analysis and Exploitation/img",
-    "Containerizing a Web Application with Docker/report.md",
     "Configuring and securing an Nginx web server on Linux/img",
-    "Deploying a centralized log collection system in a Windows domain (WEF)/report.md",
     "Containerizing a Web Application with Docker/img",
     "Deploying a centralized log collection system in a Windows domain (WEF)/img/2.png.crdownload",
     "Deploying a centralized log collection system in a Windows domain (WEF)/img/image.png.crdownload",
